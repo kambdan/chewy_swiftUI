@@ -9,7 +9,7 @@ Esta aplicación es una representación de la interfaz de usuario (UI) usando sw
       <img src="assets/one.png" alt="Captura 1" width="250"/>
     </td>
     <td>
-      <img src="assets/second.png" alt="Captura 2" width="250"/>
+      <img src="assets/two.png" alt="Captura 2" width="250"/>
     </td>
   </tr>
 </table>
